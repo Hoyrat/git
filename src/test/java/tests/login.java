@@ -9,14 +9,9 @@ public class login {
 
         //update from IDE
 
-
-
-
-
-        
        // bu satir githubtan after break
-        
-        
+
+
         //bu satirlar githubtan
 
     }
